@@ -1,9 +1,8 @@
 ## Next Level Week 2.0
 
-<h4 align="center">
-  <img src="/web/src/assets/images/logo.svg" width="250px" />
-  <img src="/web/src/assets/images/landing.svg" width="500px" />
-</h4>
+<p align="center">
+  <img width="460" height="300" src="/web/src/assets/images/landing.svg" width="500px" />
+</p>
 
 > Projeto desenvolvido durante a Next Level Week, maratona promovida pela Rocketseat. 🚀
 
