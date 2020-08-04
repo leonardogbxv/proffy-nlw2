@@ -7,7 +7,7 @@
 > Projeto desenvolvido durante a Next Level Week, maratona promovida pela Rocketseat. 🚀
 
 - [x] Dia 1 (03/08)
-- [ ] Dia 2 (04/08)
+- [x] Dia 2 (04/08)
 - [ ] Dia 3 (05/08)
 - [ ] Dia 4 (06/08)
 - [ ] Dia 5 (07/08)
