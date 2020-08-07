@@ -10,7 +10,7 @@
 - [x] Dia 2 (04/08)
 - [x] Dia 3 (05/08)
 - [x] Dia 4 (06/08)
-- [ ] Dia 5 (07/08)
+- [x] Dia 5 (07/08)
 
 [Anotações](https://www.notion.so/Next-Level-Week-2-0-6ea8ccc33fbd457bab1598b885e4b747) 📃
 
